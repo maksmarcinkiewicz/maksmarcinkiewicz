@@ -1,4 +1,4 @@
-Hi, I'm Maks :eyes:
+### Hi, I'm Maks :eyes:
 
 :page_with_curl: I am a fast learning CS major with web development experience and passion for frontend design and creativity in general. When creating apps, I apply modern principles of web development: simplicity, responsivity, and low loading times are my priorities.
 
