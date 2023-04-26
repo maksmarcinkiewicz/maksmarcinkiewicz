@@ -4,6 +4,6 @@
 
 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/maksmarcinkiewicz/).
 
-👨‍💻 Tools I use: React.js, Tailwind CSS, Framer Motion, Next.js, Typescript, Cypress, Github Actions, bash, PostgreSQL, python, django, windows, macOS 
+👨‍💻 Tools I use: React.js, Tailwind CSS, Framer Motion, Next.js, Typescript, Cypress, bash, PostgreSQL, python, django, windows, macOS 
 
 :envelope: You can contact me by e-mail: maksmarcinkiewicz@icloud.com Write to me in English, or Polish.
