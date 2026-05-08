@@ -1,5 +1,9 @@
-I’m working as a Fullstack Developer and a Data Analyst at AUDIT HR. I’m the lead developer and co-creator of the Payroll Report project. I'm responsible for developing the codebase and turning data we collect into meaningful analytics.
+Full-stack Developer and Data Analyst working on business applications, payroll analytics, and reporting systems.
 
-👨‍💻 Tools I use: React.js, Express.js, Typescript, Cypress, bash, SQL, vercel, python, windows, macOS 
+At AUDIT HR, I lead the development of the Renumeration Report platform and internal HR data tools. My work covers salary benchmarking, gender pay gap analysis, job evaluation, client dashboards, data exports, MySQL/MariaDB procedures, and data quality workflows.
+
+I also build web apps for businesses. Enrollment platforms, admin panels, multilingual websites, interactive forms, and galleries.
+
+**Main stack:** React, TypeScript, JavaScript, Node.js, Express, PHP, Zend Framework, MySQL/MariaDB, PostgreSQL, SQL, TailwindCSS, Vite, Docker, Vercel, Render.
 
 :envelope: You can contact me by e-mail: maksmarcinkiewicz@icloud.com Write to me in English, or Polish.
