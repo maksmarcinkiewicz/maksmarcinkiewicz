@@ -4,6 +4,6 @@ At AUDIT HR, I lead the development of the Renumeration Report platform and inte
 
 I also build web apps for businesses. Enrollment platforms, admin panels, multilingual websites, interactive forms, and galleries.
 
-**Main stack:** React, TypeScript, JavaScript, Node.js, Express, PHP, Zend Framework, MySQL/MariaDB, PostgreSQL, SQL, TailwindCSS, Vite, Docker, Vercel, Render.
+**Main stack:** React, TypeScript, Node.js, Express, PHP, MySQL/MariaDB, PostgreSQL, SQL, TailwindCSS, Vite, Docker, Vercel, Render.
 
 :envelope: You can contact me by e-mail: maksmarcinkiewicz@icloud.com Write to me in English, or Polish.
