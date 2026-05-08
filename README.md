@@ -1,4 +1,4 @@
-Full-stack Developer and Data Analyst working on business applications, payroll analytics, and reporting systems.
+Fullstack Developer and Data Analyst working on business applications, payroll analytics, and reporting systems.
 
 At AUDIT HR, I lead the development of the Remuneration Report platform and internal HR data tools. My work covers salary benchmarking, gender pay gap analysis, job evaluation, client dashboards, data exports, MySQL/MariaDB procedures, and data quality workflows.
 
