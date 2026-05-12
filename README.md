@@ -6,7 +6,7 @@ I also build websites and web applications for businesses: company websites, das
 
 **Main stack:** React, TypeScript, Node.js, Express, PHP, PostgreSQL, SQL, Python, TailwindCSS, Vite.
 
-**Tools I use:** Codex, Claude Code, GitHub, Docker, Vercel, Render.
+**Tools I use:** GitHub, Docker, Vercel, Render, Codex, Claude Code.
 
 **Contact:** maksmarcinkiewicz@icloud.com | https://www.linkedin.com/in/maksmarcinkiewicz/
 
