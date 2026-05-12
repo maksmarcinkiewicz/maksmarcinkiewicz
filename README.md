@@ -4,7 +4,9 @@ At AUDIT HR, I lead the development of the Remuneration Report platform and inte
 
 I also build websites and web applications for businesses: company websites, dashboards, forms, landing pages, and similar custom tools.
 
-**Main stack:** React, TypeScript, Node.js, Express, PHP, PostgreSQL, SQL, TailwindCSS, Vite, Docker, Vercel, Render.
+**Main stack:** React, TypeScript, Node.js, Express, PHP, PostgreSQL, SQL, Python, TailwindCSS, Vite.
+
+**Tools I use:** Codex, Claude Code, GitHub, Docker, Vercel, Render.
 
 **Contact:** maksmarcinkiewicz@icloud.com | https://www.linkedin.com/in/maksmarcinkiewicz/
 
