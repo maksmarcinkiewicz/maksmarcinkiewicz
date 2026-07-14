@@ -4,9 +4,9 @@ In my current role, I lead the development of the Remuneration Report platform a
 
 I also build websites and web applications for businesses: company websites, dashboards, forms, landing pages, and similar custom tools.
 
-**Main stack:** React, TypeScript, Node.js, Express, PHP, PostgreSQL, SQL, Python, TailwindCSS, Vite.
+**Main stack:** TypeScript, React, Node.js, Express, PHP, PostgreSQL, SQL, Python, Vite.
 
-**Tools I use:** GitHub, Docker, Vercel, Render, Codex, Claude Code.
+**Tools I use:** Docker, Vercel, Render, Codex, Claude Code.
 
 **Contact:** maksmarcinkiewicz@icloud.com | https://www.linkedin.com/in/maksmarcinkiewicz/
 
