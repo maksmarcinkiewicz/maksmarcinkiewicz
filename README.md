@@ -4,7 +4,7 @@ In my current role, I lead the development of the Remuneration Report platform a
 
 I also build websites and web applications for businesses: company websites, dashboards, forms, landing pages, and similar custom tools.
 
-**Main stack:** TypeScript, React, Node.js, Express, PHP, PostgreSQL, SQL, Python, Vite.
+**Main stack:** TypeScript, React, Node.js, Express, PHP, SQL, Python.
 
 **Tools I use:** Docker, Vercel, Render, Codex, Claude Code.
 
