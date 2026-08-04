@@ -10,10 +10,6 @@ I also build websites and web applications for businesses, including company web
 **Testing:** Jest, React Testing Library, Supertest</br>
 **Tools:** Git, Docker, Vercel, Render, AWS, Neon, Codex, Claude Code
 
-## Tech stack
-
-
-
 ## Contact
 
 [Email](mailto:maksmarcinkiewicz@icloud.com) · [LinkedIn](https://www.linkedin.com/in/maksmarcinkiewicz/)
