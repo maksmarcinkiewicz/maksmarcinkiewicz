@@ -6,8 +6,13 @@ I also build websites and web applications for businesses, including company web
 
 ## Tech stack
 
-**Core:** TypeScript, React, Node.js, Express, PHP, SQL, Python  
-**Tools:** Git, Docker, Vercel, Render, AWS, Codex, Claude Code
+**Core:** TypeScript, React, Node.js, Express, PHP, SQL, Python</br>
+**Testing:** Jest, React Testing Library, Supertest</br>
+**Tools:** Git, Docker, Vercel, Render, AWS, Neon, Codex, Claude Code
+
+## Tech stack
+
+
 
 ## Contact
 
