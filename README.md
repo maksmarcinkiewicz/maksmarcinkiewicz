@@ -1,13 +1,16 @@
-Fullstack Developer and Data Analyst working on business applications, payroll analytics, and reporting systems.
+Fullstack Developer specializing in business applications, reporting platforms, and analytics.
 
 In my current role, I lead the development of the Remuneration Report platform and internal HR data tools. My work covers salary benchmarking, gender pay gap analysis, job evaluation, client dashboards, and data processing workflows.
 
-I also build websites and web applications for businesses: company websites, dashboards, forms, landing pages, and similar custom tools.
+I also build websites and web applications for businesses, including company websites, dashboards, forms, landing pages, and custom internal tools.
 
-**Main stack:** TypeScript, React, Node.js, Express, PHP, SQL, Python.
+## Tech stack
 
-**Tools I use:** Docker, Vercel, Render, Codex, Claude Code.
+**Core:** TypeScript, React, Node.js, Express, PHP, SQL, Python  
+**Tools:** Docker, Vercel, Render, Codex, Claude Code
 
-**Contact:** maksmarcinkiewicz@icloud.com | https://www.linkedin.com/in/maksmarcinkiewicz/
+## Contact
 
-You can write to me in English or Polish.
+[Email](mailto:maksmarcinkiewicz@icloud.com) · [LinkedIn](https://www.linkedin.com/in/maksmarcinkiewicz/)
+
+**Languages:** Polish, English
