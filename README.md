@@ -2,7 +2,7 @@ Fullstack Developer specializing in business applications, reporting platforms, 
 
 In my current role, I lead the development of the Remuneration Report platform and internal HR data tools. My work covers salary benchmarking, gender pay gap analysis, job evaluation, client dashboards, and data processing workflows.
 
-I also build websites and web applications for businesses, including company websites, dashboards, forms, landing pages, and custom internal tools.
+I also build web applications for businesses, including company websites, dashboards, forms, landing pages, and custom internal tools.
 
 ## Tech stack
 
